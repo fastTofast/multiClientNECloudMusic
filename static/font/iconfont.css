@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('./static/font/iconfont.eot'); /* IE9 */
+  src: url('./static/font/iconfont.eot?t=1551009800112#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQAAAsAAAAACJgAAAO0AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqEXIQKATYCJAMQCwoABCAFhG0HQBt0BxHVmzPJfibwJpqrhu0ywx5H2BKC8FqCmiCgd8ufzW64yEHVDamJkNahLgbU9dOfsN+2p1lJCwWNvA79W0V358gY8gMggeH//+eY6drShvltNpeM1tHeAGcFNKCIxAI54DuQG9gJ+Q1jF5dxHgKwyExBRM3aDb0YKLRpAhB9e/XohBHTo0rIAkPlylmrEHPRMbQZ2k1gjvvz4ivFhQEaukSb27R7ra5U/WB+PC+D8WBbG4GgPyvAbAIJFAQUiJ659s5IP14QiSV9RlEaMDDQ4IP5odzH8/GhcC1yQ/+XBxoCCcKFJk9E2JIJCR9MkwUNPpRjQcDH83okRKvJBpAUOAH8AtiMVQY60jbdxp/2eJImTSGV2226D9/PvOZB+F6mlXf9B08GT4XPOKd9ixcL6SwJL0qlLVzYpRAXwoY+iRZc2D2UevGSNF2WLFq0MGXHhd7YFxqT+PChV4tEfO5YLCCj0XZrH9ZMvBzNLjfE6rgvRbJ5/YtDG5emZNGyTeE0gSUrnOWpvcJnOyLDmEjw4cNQNOrEYuGINxoilGAkEo46Ue+pYOZhTiyc6exR0zraemv6dFsLbmNLxS3VzCPLezuOcMVdI90j9bg+okrJs0ct82jrStaC27KWyauWexJGJPyPte5p9lnTNg+286Wq32xtuOnGCq2rrQslFU0T+FCzvhR6W/WkXxs6VAu8MlqGDvVrSkXJnXaTJmtPrrXM9iv/kY/P7x1wJOOqmOeVJzYr45W9Aw9fznj58I3lL3b3FxCh1Pp6pdo86X3kSO8nmOOIUJ/FRarmWu40aOAsRxwkQnkDB3bv36gxWtSoPwMBiC/zaXGXRu6SVZPJuTLpj/A7ZLz278QuScUfka0AeLR0mwF9cYr6grcpkASvXVCzTskizaCUKDb5SqGiPQbcSy2WboKXnYbkvOhDmao2GYQyVQgaCWQCiUFOpMIWBB2bkuDCoApYFKDOZpsUDEYilAnkZwoAQVL2gIaHMyBJyi2kwj4HndR8BxdJhQQLv0ixp01u4eqkBuHAOMP4Bz2tizBMnHilL5SnGygqcqk/pEOHoMyKZKrFBamPBcclK2YBglYPDbgMnVtho9XgxJli3uo8F3lvyqbVBwk1CAfGGcY/6GldhN2ck9T3v1CebqCSmhL7D+nQvUOZFTWQrXypVXMug49LVswCTxK0emigFZ0eX2HLH2Vw4ky1iG51jhqJuvJsfKW/wl2AhXaPEpqQQgkdMTocovSmlzT6n8Mya1MXBA==') format('woff2'),
+  url('./static/font/iconfont.woff') format('woff'),
+  url('./static/font/iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./static/font/iconfont.svg') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 20px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-z:before {
+  content: "\e639";
+}
+
+.icon-shipin:before {
+  content: "\e609";
+}
+
+.icon-yuandian:before {
+  content: "\e7c2";
+}
+
