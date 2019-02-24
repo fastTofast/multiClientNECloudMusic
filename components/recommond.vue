@@ -141,7 +141,7 @@
 <style lang="less">
 	.recommond-com {
 		height: 100%;
-
+		
 		.recommond-body {
 			position: relative;
 			margin: auto;

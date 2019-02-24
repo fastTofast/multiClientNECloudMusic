@@ -33,7 +33,9 @@
 		border-radius: 4upx;
 		margin-top: 10upx;
 	}
-	.uni-scroll-view::-webkit-scrollbar {
+	::-webkit-scrollbar {
+		width: 0;
+		color: transparent;
 		display: none;
 	}
 	.hot-swiper .uni-swiper-wrapper {
