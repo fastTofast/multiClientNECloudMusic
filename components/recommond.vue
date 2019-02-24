@@ -154,7 +154,7 @@
 
 		.bg-gray {
 			background-color: #504a4a;
-			height: 100upx;
+			height: 160upx;
 			width: 100%;
 		}
 
@@ -206,7 +206,7 @@
 			width: 720upx;
 			margin: auto;
 			position: relative;
-			top: -100upx;
+			top: -160upx;
 
 			.swiper-item,
 			.swiper-item .scroll-img {
